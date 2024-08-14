@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim, pode gerear empregos e economizar recursos.",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                afirmacao: "A reciclagem pode gerar empregos e economizar recursos, contribuindo para o crescimento econômico e a preservação ambiental ao reduzir a necessidade de matérias-primas. "
             },
             {
                 texto: "Não, acho que os custos superam os benefícios. ",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: "A reciclagem pode não gerar tantos empregos quanto esperado e, em alguns casos, pode não ser eficiente na economia de recursos."
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sempre procuro produtos sutentáveis e de baixo impacto",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                afirmacao: "Sempre procuro reduzir minha pegada ecológica e apoiar praticas sustentáveis."
             },
             {
                 texto: "Não considero isso na hora de comprar",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                afirmacao: "a falta de conscientização sobre suas consequências ambientais."
             }
         ]
     },
@@ -36,37 +36,37 @@ const perguntas = [
         alternativas: [
             {
                 texto: "A favor, são essenciais para a sustentabilidade",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                afirmacao: "politicas públicas que desencorajam a reciclagem podem ser vistas como prejudiciais ao mesmo ambiente e á sustentabilidade global."
             },
             {
                 texto: "Contra, acredito que não são eficazes",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                afirmacao: "Sou contra, pois acredito que essas políticas públicas não são eficazes. Muitas vezes, a implementação é inadequada, faltando infraestrutura e educação adequada para a população."
             }
         ]
     },
     {
-        enunciado: "Como você descreveria sua atitude en relação ao uso de prodututos descartáveis",
+        enunciado: "Como você descreveria sua atitude em relação ao uso de produtos descartáveis",
         alternativas: [
             {
                 texto: "Evito ao máximo e uso alternativas reutilizáveis.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                afirmacao: "Evito, ao máximo, o uso de produtos descartáveis e busco sempre utilizar alternativas reutilizáveis."
             },
             {
                 texto: "Uso sem preucupação com o impacto ambiental.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                afirmacao: "E errado ter essa atitude em relação a produtos descartáveis porque eles contribuem significativamente para a poluição."
             }
         ]
-    },
+    }, 
     {
         enunciado: "Você costuma se informar sobre a destinação final dos resíduos que você gera? ",
         alternativas: [
             {
                 texto: "Sim, sempre pesquiso e acompanho o destino dos meus resíduos.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                afirmacao: "Você está no caminho certo, se informar sobre o destino dos seus resíduos é muito importante."
             },
             {
                 texto: "Nunca me informo, não vejo a necessidade.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                afirmacao: "É errado, pois a falta de conhecimento pode contribuir para o descarte inadequado de lixo, agravando problemas como a poluição ambiental. "
             }
         ]
     },
