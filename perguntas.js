@@ -8,6 +8,7 @@ const perguntas = [
                     "A reciclagem pode gerar empregos e economizar recursos, contribuindo para o crescimento econômico e a preservação ambiental ao reduzir a necessidade de matérias-primas. ",
                     "A reciclagem pode impulsionar a economia ao gerar novas vagas de trablho e reduzir os gastos com a produççao de novos materiais, além de diminuir a pressão sobre os recursos naturais."
                 ]
+                proxima: 1;
             },
             {
                 texto: "Não, acho que os custos superam os benefícios. ",
@@ -16,6 +17,7 @@ const perguntas = [
                     "Embora existam custos iniciais, a reciclgem pode resultar em econômia a longo prazo ao reduzir a necessidade de extração de novos recurços e diminuir o impacto ambiental."
 
                 ]
+                proxima: 2;
             }
         ]
     },
