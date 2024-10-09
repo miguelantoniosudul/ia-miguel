@@ -8,7 +8,7 @@ const perguntas = [
                     "A reciclagem pode gerar empregos e economizar recursos, contribuindo para o crescimento econômico e a preservação ambiental ao reduzir a necessidade de matérias-primas. ",
                     "A reciclagem pode impulsionar a economia ao gerar novas vagas de trablho e reduzir os gastos com a produççao de novos materiais, além de diminuir a pressão sobre os recursos naturais."
                 ],
-                proxima: 1;
+                proxima: 1,
             },
             {
                 texto: "Não, acho que os custos superam os benefícios. ",
@@ -17,7 +17,7 @@ const perguntas = [
                     "Embora existam custos iniciais, a reciclgem pode resultar em econômia a longo prazo ao reduzir a necessidade de extração de novos recurços e diminuir o impacto ambiental."
 
                 ],
-                proxima: 2;
+                proxima: 2,
             }
         ]
     },
@@ -31,7 +31,7 @@ const perguntas = [
                     "Procurar produtos sustentáveis e de baixo impacto garantem que suas compras minimizem os danos ao meio meio ambiente e contribuam para práticas mais responsáveis e ecológicas."
 
                 ],
-                proxima: 3;
+                proxima: 3,
             },
             {
                 texto: "Não considero isso na hora de comprar",
@@ -39,7 +39,7 @@ const perguntas = [
                     "a falta de conscientização sobre suas consequências ambientais.",
                     "Não considerar o impacto ambiental dos ptodutos na hora da compra pode ser um erro pois isso contribui para degradação ambiental e o esgotamento dos rescursos naturais. "
                 ],
-                proxima: 4;
+                proxima: 4,
             
             }
         ]
@@ -53,7 +53,7 @@ const perguntas = [
                     "politicas públicas que desencorajam a reciclagem podem ser vistas como prejudiciais ao mesmo ambiente e á sustentabilidade global.",
 
                 ],
-                proxima: 5;
+                proxima: 5,
             },
             {
                 texto: "Contra, acredito que não são eficazes",
@@ -61,7 +61,7 @@ const perguntas = [
                     "Sou contra, pois acredito que essas políticas públicas não são eficazes. Muitas vezes, a implementação é inadequada, faltando infraestrutura e educação adequada para a população.",
 
                 ],
-                proxima: 6;
+                proxima: 6,
             }
         ]
     },
@@ -74,7 +74,7 @@ const perguntas = [
                     "Evito, ao máximo, o uso de produtos descartáveis e busco sempre utilizar alternativas reutilizáveis.",
 
                 ],
-                proxima: 7;
+                proxima: 7,
             },
             {
                 texto: "Uso sem preucupação com o impacto ambiental.",
@@ -82,7 +82,7 @@ const perguntas = [
                     "E errado ter essa atitude em relação a produtos descartáveis porque eles contribuem significativamente para a poluição.",
 
                 ],
-                proxima: 8;
+                proxima: 8,
             }
         ]
     }, 
