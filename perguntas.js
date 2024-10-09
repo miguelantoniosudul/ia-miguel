@@ -31,6 +31,7 @@ const perguntas = [
                     "Procurar produtos sustentáveis e de baixo impacto garantem que suas compras minimizem os danos ao meio meio ambiente e contribuam para práticas mais responsáveis e ecológicas."
 
                 ]
+                proxima: 3;
             },
             {
                 texto: "Não considero isso na hora de comprar",
@@ -38,6 +39,7 @@ const perguntas = [
                     "a falta de conscientização sobre suas consequências ambientais.",
                     "Não considerar o impacto ambiental dos ptodutos na hora da compra pode ser um erro pois isso contribui para degradação ambiental e o esgotamento dos rescursos naturais. "
                 ]
+                proxima: 4;
             
             }
         ]
@@ -51,6 +53,7 @@ const perguntas = [
                     "politicas públicas que desencorajam a reciclagem podem ser vistas como prejudiciais ao mesmo ambiente e á sustentabilidade global.",
 
                 ]
+                proxima: 5;
             },
             {
                 texto: "Contra, acredito que não são eficazes",
@@ -58,6 +61,7 @@ const perguntas = [
                     "Sou contra, pois acredito que essas políticas públicas não são eficazes. Muitas vezes, a implementação é inadequada, faltando infraestrutura e educação adequada para a população.",
 
                 ]
+                proxima: 6;
             }
         ]
     },
@@ -70,6 +74,7 @@ const perguntas = [
                     "Evito, ao máximo, o uso de produtos descartáveis e busco sempre utilizar alternativas reutilizáveis.",
 
                 ]
+                proxima: 7;
             },
             {
                 texto: "Uso sem preucupação com o impacto ambiental.",
@@ -77,6 +82,7 @@ const perguntas = [
                     "E errado ter essa atitude em relação a produtos descartáveis porque eles contribuem significativamente para a poluição.",
 
                 ]
+                proxima: 8;
             }
         ]
     }, 
@@ -89,6 +95,7 @@ const perguntas = [
                     "Você está no caminho certo, se informar sobre o destino dos seus resíduos é muito importante.",
 
                 ]
+                proxima: 9;
 
             },
             {
@@ -97,6 +104,7 @@ const perguntas = [
                     "É errado, pois a falta de conhecimento pode contribuir para o descarte inadequado de lixo, agravando problemas como a poluição ambiental. ",
 
                 ]
+                proxima: 10;
             }
         ]
     },
