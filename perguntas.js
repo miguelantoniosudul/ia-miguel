@@ -7,7 +7,7 @@ const perguntas = [
                 afirmacao: [
                     "A reciclagem pode gerar empregos e economizar recursos, contribuindo para o crescimento econômico e a preservação ambiental ao reduzir a necessidade de matérias-primas. ",
                     "A reciclagem pode impulsionar a economia ao gerar novas vagas de trablho e reduzir os gastos com a produççao de novos materiais, além de diminuir a pressão sobre os recursos naturais."
-                ]
+                ],
                 proxima: 1;
             },
             {
@@ -16,7 +16,7 @@ const perguntas = [
                     "A reciclagem pode não gerar tantos empregos quanto esperado e, em alguns casos, pode não ser eficiente na economia de recursos.",
                     "Embora existam custos iniciais, a reciclgem pode resultar em econômia a longo prazo ao reduzir a necessidade de extração de novos recurços e diminuir o impacto ambiental."
 
-                ]
+                ],
                 proxima: 2;
             }
         ]
@@ -30,7 +30,7 @@ const perguntas = [
                     "Sempre procuro reduzir minha pegada ecológica e apoiar praticas sustentáveis.",
                     "Procurar produtos sustentáveis e de baixo impacto garantem que suas compras minimizem os danos ao meio meio ambiente e contribuam para práticas mais responsáveis e ecológicas."
 
-                ]
+                ],
                 proxima: 3;
             },
             {
@@ -38,7 +38,7 @@ const perguntas = [
                 afirmacao: [
                     "a falta de conscientização sobre suas consequências ambientais.",
                     "Não considerar o impacto ambiental dos ptodutos na hora da compra pode ser um erro pois isso contribui para degradação ambiental e o esgotamento dos rescursos naturais. "
-                ]
+                ],
                 proxima: 4;
             
             }
@@ -52,7 +52,7 @@ const perguntas = [
                 afirmacao: [
                     "politicas públicas que desencorajam a reciclagem podem ser vistas como prejudiciais ao mesmo ambiente e á sustentabilidade global.",
 
-                ]
+                ],
                 proxima: 5;
             },
             {
@@ -60,7 +60,7 @@ const perguntas = [
                 afirmacao: [
                     "Sou contra, pois acredito que essas políticas públicas não são eficazes. Muitas vezes, a implementação é inadequada, faltando infraestrutura e educação adequada para a população.",
 
-                ]
+                ],
                 proxima: 6;
             }
         ]
@@ -73,7 +73,7 @@ const perguntas = [
                 afirmacao: [
                     "Evito, ao máximo, o uso de produtos descartáveis e busco sempre utilizar alternativas reutilizáveis.",
 
-                ]
+                ],
                 proxima: 7;
             },
             {
@@ -81,7 +81,7 @@ const perguntas = [
                 afirmacao: [
                     "E errado ter essa atitude em relação a produtos descartáveis porque eles contribuem significativamente para a poluição.",
 
-                ]
+                ],
                 proxima: 8;
             }
         ]
@@ -95,7 +95,7 @@ const perguntas = [
                     "Você está no caminho certo, se informar sobre o destino dos seus resíduos é muito importante.",
 
                 ]
-                proxima: 9;
+
 
             },
             {
@@ -104,7 +104,7 @@ const perguntas = [
                     "É errado, pois a falta de conhecimento pode contribuir para o descarte inadequado de lixo, agravando problemas como a poluição ambiental. ",
 
                 ]
-                proxima: 10;
+
             }
         ]
     },
