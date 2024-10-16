@@ -49,12 +49,13 @@ function mostraAlternativas() {
 function respostaSelecionada(opcaoSelecionada) {
     const afirmacoes = aleatorio(opcaoSelecionada.afirmacao);
     historiaFinal += afirmacoes + " ";
-    if (opcaoSelecionada.proxima !== undefined) {
+    atual++;
+    if(opcaoSelecionada.proxima !== undefined) {
         atual = opcaoSelecionada.proxima;
-    } else {
+   }else{
         mostraResultado();
         return;
-    }
+   }
     mostraPergunta();
 }
 
@@ -80,3 +81,4 @@ function substituiNome() {
 }
 
 substituiNome();
+mostraPergunta();

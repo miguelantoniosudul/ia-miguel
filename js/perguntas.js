@@ -103,9 +103,9 @@ const perguntas = [
                 afirmacao: [
                     "É errado, pois a falta de conhecimento pode contribuir para o descarte inadequado de lixo, agravando problemas como a poluição ambiental. ",
 
-                ],
+                ]
 
-            },
+            }
         ]
-    }
+    },
 ];
